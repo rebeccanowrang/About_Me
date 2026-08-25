@@ -3,9 +3,11 @@ Assignment 1
 
 ICS 499 – Software Engineering & Capstone Project
 Siva.Jasthi@metrostate.edu
+
 Assignment 1: About Me – Single Page Web Application
 Points: 25
 Assignment Type: Individual
+
 Deliverable: A complete single-page web application
 1. Objective
 The purpose of this assignment is to:
